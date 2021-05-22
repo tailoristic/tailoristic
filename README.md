@@ -49,4 +49,4 @@ Notification Check using postman : [Click](https://documenter.getpostman.com/vie
 
 ## Visitors Count
 
-<img align="left" src = "https://profile-counter.glitch.me/ravi_patel_84184/count.svg" alt ="Loading">
+<img align="left" src = "https://profile-counter.glitch.me/tailoristic/count.svg" alt ="Loading">
