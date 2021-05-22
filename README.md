@@ -8,7 +8,6 @@
 <!-- - 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst. -->
 - 💼 &nbsp; Working as a Freelancer Flutter Developer.
 - 🌱 &nbsp; Learning more about Android, Systems Design and Python.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
 <h3>🛠 Tech Stack</h3>
 
