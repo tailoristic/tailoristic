@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and Exploring Space by night
 <!-- - 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst. -->
-- 💼 &nbsp; Working as a Freelancer Flutetr Developer.
+- 💼 &nbsp; Working as a Freelancer Flutter Developer.
 - 🌱 &nbsp; Learning more about Android, Systems Design and Python.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
