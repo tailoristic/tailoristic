@@ -24,9 +24,7 @@
 
 <br/>
 <br/>
-<a href="https://github.com/tailoristic">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tailoristic&show_icons=true&theme=radical" />
-</a>
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@tailoristic" frameborder="0"></iframe>
 <br/>
 <br/>
 
