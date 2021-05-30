@@ -24,7 +24,6 @@
 
 <br/>
 <br/>
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@tailoristic" frameborder="0"></iframe>
 <br/>
 <br/>
 
