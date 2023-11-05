@@ -9,7 +9,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Flutter | Dart | Python | Django | Angular | Typescript 
+- 💻 &nbsp; Flutter | Dart | Python | Django | Angular | Typescript | Java | SpringBoot | Vuejs
 - 🌐 &nbsp; HTML | CSS | Javascript | TypeScript
 - 🛢 &nbsp; MySQL  | SQLite | PostgreSQL
 - 🔧 &nbsp; Git | BitBucket
