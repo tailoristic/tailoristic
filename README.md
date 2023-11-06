@@ -3,7 +3,6 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and Exploring Space by night
-<!-- - 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst. -->
 - 💼 &nbsp; Working as a Full Stack Developer.
 - 🌱 &nbsp; Learning more about Android, System Design and Python.
 
@@ -28,7 +27,7 @@
 <br/>
 <br/>
 
-[![ravi84184's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tailoristic&show_icons=true)](https://github.com/tailoristic)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tailoristic&show_icons=true)](https://github.com/tailoristic)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
